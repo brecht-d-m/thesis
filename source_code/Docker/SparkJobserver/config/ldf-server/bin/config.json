@@ -1,0 +1,33 @@
+{
+  "title": "Test Server Thesis -- Brecht De Meulenaere",
+
+  "datasources": {
+    "hex_demo": {
+      "title": "Spark_test_database",
+      "type": "SparkDatasource",
+      "description": "WatDiv (Spark instance) - deployed on a Hex Cluster",
+      "settings": {
+        "endpoint": "http://localhost:8090/jobs",
+        "appName": "spark-ldf-search",
+        "classPath": "LDFSparkSearchJob",
+        "countClassPath": "LDFSparkCountJob",
+        "context": "sql-context",
+        "sync": "true",
+        "timeout": 3600
+      }
+    }
+  },
+
+  "prefixes": {
+    "rdf":         "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs":        "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd":         "http://www.w3.org/2001/XMLSchema#",
+    "dc":          "http://purl.org/dc/terms/",
+    "foaf":        "http://xmlns.com/foaf/0.1/",
+    "dbpedia":     "http://dbpedia.org/resource/",
+    "dbpedia-owl": "http://dbpedia.org/ontology/",
+    "dbpprop":     "http://dbpedia.org/property/",
+    "hydra":       "http://www.w3.org/ns/hydra/core#",
+    "void":        "http://rdfs.org/ns/void#"
+  }
+}

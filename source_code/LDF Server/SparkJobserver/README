@@ -1,0 +1,39 @@
+# Spark Jobserver
+## Deployment
+
+In `spark-jobserver/bin` execute the `server_deploy.sh` file. This has to be executed with the `local` parameter.
+
+When it is deployed, you can start the server with the `server_start.sh` script that was added in the deployment directory.
+
+**Notes**
+- It has to be deployed with Scala 2.10!
+- Since the server uses Scala 2.10, the deployed jobs must also be compiled against Scala 2.10
+
+## Docker
+
+A docker image has been created to do an automatic deployment for the (Bigboards) Hex. The files that are used for this docker are located in the `Docker/SparkJobserver` directory. To build the docker image, following command was used:
+
+```
+docker build --tag spark-jobserver .
+```
+
+When the docker has been deployed, the spark master address must be updated in `local.conf`.
+
+This docker image can also be deployed locally, using the commands:
+
+```
+ docker run -p 8090:8090 -p 7077:7077 -p 8080:8080 -p 8081:8081 -p 7070:7070 -it spark-jobserver /bin/bash
+```
+
+Spark can be set up, by accessing the docker via [bash](http://askubuntu.com/questions/505506/how-to-get-bash-or-ssh-into-a-running-container-in-background-mode). To set up a master and a slave, execute following commands in the docker container:
+
+```
+/opt/spark/bin/spark-class org.apache.spark.deploy.master.Master --port 7077 --webui-port 8080
+/opt/spark/bin/spark-class org.apache.spark.deploy.worker.Worker <spark_master_addr> -d /data
+```
+
+When the Spark cluster is deployed, the Spark Jobserver can be started. To do this you must execute the `server_start.sh`, that is located in the `/opt/spark-jobserver` directory.
+
+Since there are no data files added to the docker container, these can be downloaded via the `SparkLoaderJob` using the `remote` parameter and an ftp-server.
+
+**Note:** this docker image is also available via a public repository on [hub.docker.com](https://hub.docker.com/r/bredmeul/spark-jobserver/). To update the settings file on this docker image, vim is installed to do the necessary updates.

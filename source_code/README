@@ -1,0 +1,65 @@
+Run Spark approach
+================
+
+# Info
+The code is located in the map LDFSparkJob. This part of the project contains 2 Spark jobs: LDFSparkLoaderJobX and LDFSparkSearchJobX. These are 2 jobs that can be submitted to a [Spark Jobserver](https://github.com/spark-jobserver/spark-jobserver).
+
+# Compilation
+To compile you must be located in the LDFSparkJob subfolder. Compilation is done with sbt. This will automatically download all dependencies. To compile you must be located in the LDFSParkJob folder, then execute following command with the commandline:
+
+`sbt package`
+
+This will create a jar. This jar will be located in the map Thesis-sourcecode/LDFSparkJob/target/scala-2.11 and should be named ldfspark_2.11-1.0.jar.
+
+Next a Spark Jobserver must be started. To start the Spark Jobserver (at the moment it is only tested locally, and not yet with a docker file) you must be located in the Spark Jobserver folder (cloned from the [GitHub page](https://github.com/spark-jobserver/spark-jobserver)). Execute following code in the command line. The last 2 commands must be executed in the sbt shell (the command sbt will start this shell).
+
+```
+sbt
+project job-server-extras
+reStart
+```
+
+Next upload the LDFSpark jar (ldfspark_2.11-1.0.jar). To do this, move yourself to the folder where ldfspark_2.11-1.0.jar is located and execute following commands in the command line:
+
+```
+curl --data-binary @ldfspark_2.11-1.0.jar localhost:8090/jars/spark-ldf-search
+curl -d "" 'localhost:8090/contexts/sql-context?context-factory=spark.jobserver.context.SQLContextFactory'
+```
+
+## LDFSparkLoaderJob
+Data can be loaded into tables with the LDFSparkLoaderJob. At the moment it only support NT files (field delimiter is the space). By default, the job takes a file that is located in: /data/input.nt.
+
+To load data execute following command:
+
+```
+curl -d '{"data_source": "/path/to/somewhere/just_a_file_name.nt", "use_remote": "false"}' 'localhost:8090/jobs?appName=spark-ldf-search&classPath=LDFSparkLoaderJob&context=sql-context&sync=true'
+```
+- The parameter "data_source" specifies the NT file that you want to upload. This can be either a local path or a FTP URL pointing to a remote machine.
+- The parameter "use_remote" allows to read from a remote location (via FTP). If this parameter is set to "true", the "dataSource" path must then be a valid FTP URL. If the parameter is set to "false", a local path is expected.
+
+The sync=true can be removed, because this can return an error if it takes to long. If you remove this, you will get the job id. This id you can use to do a GET request to get the result. This result only contains the total number of inserted elements in the table if the upload was successful.
+
+The parsing of the nt file, is based on code from the [Sempala project](http://dbis.informatik.uni-freiburg.de/forschung/projekte/DiPoS/Sempala.html).
+
+## LDFSparkSearchJob
+The uploaded data can be searched with the LDFSparkSearchJob. To do this, you must execute following command:
+
+```
+curl -d '{"subject":"<http://dbpedia.org/resource/Catherine_Coleman>"}' 'localhost:8090/jobs?appName=spark-ldf-search&classPath=LDFSparkSearchJob&context=sql-context&sync=true'
+```
+
+You can use the fields: "subject", "predicate", "object". These can be used separately or they can be command. The result will be a JSON object, where every triple is a string. This string is in the form: "[subject, predicate, object]".
+
+## Running a Spark Jobserver
+The Spark jobserver can be run via a Docker container. Velvia has published a Docker image on https://hub.docker.com/r/velvia/spark-jobserver/tags/. This docker image can be run with the command:
+```
+sudo docker run -p 8090:8090 velvia/spark-jobserver:0.6.1.mesos-0.25.0.spark-1.5.2
+```
+On the host where the jobserver is running, port 8090 has to be open.
+
+Run Impala approach
+================
+
+Start hdfs with tables (temp_table or temp_index_table)
+Start impala 
+Start impala-rest api

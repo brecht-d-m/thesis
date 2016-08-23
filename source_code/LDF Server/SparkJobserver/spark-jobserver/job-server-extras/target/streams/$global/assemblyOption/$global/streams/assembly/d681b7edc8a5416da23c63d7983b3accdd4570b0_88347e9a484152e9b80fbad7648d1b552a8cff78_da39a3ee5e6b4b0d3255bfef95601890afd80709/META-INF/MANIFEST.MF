@@ -1,0 +1,29 @@
+Manifest-Version: 1.0
+Bundle-Description: Flyway: Database Migrations Made Easy.
+Bundle-License: https://github.com/flyway/flyway/blob/master/LICENSE.t
+ xt
+Bundle-SymbolicName: org.flywaydb.core
+Archiver-Version: Plexus Archiver
+Built-By: Axel
+Bnd-LastModified: 1426863156447
+Bundle-ManifestVersion: 2
+Import-Package: javax.sql,org.apache.commons.logging;version="[1.1,2)"
+ ;resolution:=optional,org.osgi.framework;version="1.3.0";resolution:=
+ mandatory,org.slf4j;version="[1.6,2)";resolution:=optional,org.spring
+ framework.jdbc.core;version="[2.5,5.0)";resolution:=optional,org.spri
+ ngframework.jdbc.datasource;version="[2.5,5.0)";resolution:=optional
+Tool: Bnd-1.50.0
+Export-Package: org.flywaydb.core;uses:="org.flywaydb.core.api,org.fly
+ waydb.core.api.callback,org.flywaydb.core.api.resolver,javax.sql";ver
+ sion="3.2.1",org.flywaydb.core.api;version="3.2.1",org.flywaydb.core.
+ api.callback;uses:="org.flywaydb.core.api";version="3.2.1",org.flyway
+ db.core.api.migration;uses:="org.flywaydb.core.api";version="3.2.1",o
+ rg.flywaydb.core.api.resolver;uses:="org.flywaydb.core.api";version="
+ 3.2.1",org.flywaydb.core.api.migration.jdbc;version="3.2.1",org.flywa
+ ydb.core.api.android;version="3.2.1",org.flywaydb.core.api.migration.
+ spring;uses:="org.springframework.jdbc.core";version="3.2.1"
+Bundle-Name: flyway-core
+Bundle-Version: 3.2.1
+Created-By: Apache Maven Bundle Plugin
+Build-Jdk: 1.8.0_20
+

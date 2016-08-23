@@ -1,0 +1,30 @@
+[0m[[0minfo[0m] [0mscalastyle using config /home/brecht/Thesis/SparkJobserver/spark-jobserver/scalastyle-config.xml[0m
+[0m[[0mdebug[0m] [0mStarting scalastyle[0m
+[0m[[0mdebug[0m] [0mstart file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-extras/src/spark.jobserver/context/SQLContextFactory.scala[0m
+[0m[[0mdebug[0m] [0mend file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-extras/src/spark.jobserver/context/SQLContextFactory.scala[0m
+[0m[[0mdebug[0m] [0mstart file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-extras/src/spark.jobserver/context/StreamingContextFactory.scala[0m
+[0m[[0mdebug[0m] [0mend file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-extras/src/spark.jobserver/context/StreamingContextFactory.scala[0m
+[0m[[0mdebug[0m] [0mstart file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-extras/src/spark.jobserver/context/HiveContextFactory.scala[0m
+[0m[[0mdebug[0m] [0mend file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-extras/src/spark.jobserver/context/HiveContextFactory.scala[0m
+[0m[[0mdebug[0m] [0mstart file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-extras/src/spark.jobserver/SqlTestJob.scala[0m
+[0m[[0mdebug[0m] [0mend file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-extras/src/spark.jobserver/SqlTestJob.scala[0m
+[0m[[0mdebug[0m] [0mstart file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-extras/src/spark.jobserver/SparkHiveJob.scala[0m
+[0m[[0mdebug[0m] [0mend file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-extras/src/spark.jobserver/SparkHiveJob.scala[0m
+[0m[[0mdebug[0m] [0mstart file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-extras/src/spark.jobserver/HiveTestJob.scala[0m
+[0m[[0mdebug[0m] [0mend file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-extras/src/spark.jobserver/HiveTestJob.scala[0m
+[0m[[0mdebug[0m] [0mstart file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-extras/src/spark.jobserver/NamedDataFrame.scala[0m
+[0m[[0mdebug[0m] [0mend file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-extras/src/spark.jobserver/NamedDataFrame.scala[0m
+[0m[[0mdebug[0m] [0mstart file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-extras/src/spark.jobserver/StreamingTestJob.scala[0m
+[0m[[0mdebug[0m] [0mend file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-extras/src/spark.jobserver/StreamingTestJob.scala[0m
+[0m[[0mdebug[0m] [0mstart file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-extras/src/spark.jobserver/SparkSqlJob.scala[0m
+[0m[[0mdebug[0m] [0mend file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-extras/src/spark.jobserver/SparkSqlJob.scala[0m
+[0m[[0mdebug[0m] [0mstart file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-extras/src/spark.jobserver/SparkStreamingJob.scala[0m
+[0m[[0mdebug[0m] [0mend file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-extras/src/spark.jobserver/SparkStreamingJob.scala[0m
+[0m[[0mdebug[0m] [0mstart file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-extras/src/spark.jobserver/KMeansExample.scala[0m
+[0m[[0mdebug[0m] [0mend file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-extras/src/spark.jobserver/KMeansExample.scala[0m
+[0m[[0minfo[0m] [0mProcessed 11 file(s)[0m
+[0m[[0minfo[0m] [0mFound 0 errors[0m
+[0m[[0minfo[0m] [0mFound 0 warnings[0m
+[0m[[0minfo[0m] [0mFound 0 infos[0m
+[0m[[0minfo[0m] [0mFinished in 6 ms[0m
+[0m[[32msuccess[0m] [0mcreated output: /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-extras/target[0m

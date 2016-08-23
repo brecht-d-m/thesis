@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: job-server-extras
+Implementation-Version: 0.6.2-SNAPSHOT
+Specification-Vendor: spark.jobserver
+Specification-Title: job-server-extras
+Implementation-Vendor-Id: spark.jobserver
+Specification-Version: 0.6.2-SNAPSHOT
+Implementation-URL: https://github.com/spark-jobserver/spark-jobserver
+Implementation-Vendor: spark.jobserver
+

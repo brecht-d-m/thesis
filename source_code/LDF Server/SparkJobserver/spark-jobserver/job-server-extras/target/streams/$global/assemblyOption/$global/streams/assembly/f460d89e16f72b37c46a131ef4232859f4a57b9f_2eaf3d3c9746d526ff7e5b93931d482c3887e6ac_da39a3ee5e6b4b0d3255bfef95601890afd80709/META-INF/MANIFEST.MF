@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Export-Package: com.googlecode.concurrentlinkedhashmap;version="1.4.2"
+Built-By: ben
+Tool: Bnd-2.3.0.201405100607
+Bundle-Name: ConcurrentLinkedHashMap
+Created-By: Apache Maven Bundle Plugin
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.6))"
+Build-Jdk: 1.6.0_65
+Bundle-Version: 1.4.2
+Bnd-LastModified: 1422408589260
+Bundle-ManifestVersion: 2
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-Description: A high performance version of java.util.LinkedHash
+ Map for use as a software cache.
+Import-Package: sun.misc;resolution:=optional
+Bundle-SymbolicName: com.googlecode.concurrentlinkedhashmap.lru
+Archiver-Version: Plexus Archiver
+

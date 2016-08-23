@@ -1,0 +1,18 @@
+[0m[[0minfo[0m] [0mscalastyle using config /home/brecht/Thesis/SparkJobserver/spark-jobserver/scalastyle-config.xml[0m
+[0m[[0mdebug[0m] [0mStarting scalastyle[0m
+[0m[[0mdebug[0m] [0mstart file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-api/src/spark.jobserver/ContextLike.scala[0m
+[0m[[0mdebug[0m] [0mend file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-api/src/spark.jobserver/ContextLike.scala[0m
+[0m[[0mdebug[0m] [0mstart file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-api/src/spark.jobserver/NamedObjectSupport.scala[0m
+[0m[[0mdebug[0m] [0mend file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-api/src/spark.jobserver/NamedObjectSupport.scala[0m
+[0m[[0mdebug[0m] [0mstart file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-api/src/spark.jobserver/JavaSparkJob.scala[0m
+[0m[[0mdebug[0m] [0mend file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-api/src/spark.jobserver/JavaSparkJob.scala[0m
+[0m[[0mdebug[0m] [0mstart file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-api/src/spark.jobserver/SparkJob.scala[0m
+[0m[[0mdebug[0m] [0mend file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-api/src/spark.jobserver/SparkJob.scala[0m
+[0m[[0mdebug[0m] [0mstart file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-api/src/spark.jobserver/NamedRddSupport.scala[0m
+[0m[[0mdebug[0m] [0mend file /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-api/src/spark.jobserver/NamedRddSupport.scala[0m
+[0m[[0minfo[0m] [0mProcessed 5 file(s)[0m
+[0m[[0minfo[0m] [0mFound 0 errors[0m
+[0m[[0minfo[0m] [0mFound 0 warnings[0m
+[0m[[0minfo[0m] [0mFound 0 infos[0m
+[0m[[0minfo[0m] [0mFinished in 1 ms[0m
+[0m[[32msuccess[0m] [0mcreated output: /home/brecht/Thesis/SparkJobserver/spark-jobserver/job-server-api/target[0m

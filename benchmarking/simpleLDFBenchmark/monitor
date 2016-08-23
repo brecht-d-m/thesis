@@ -1,0 +1,15 @@
+#!/usr/bin/env node
+var trackPID = require('./lib/monitor_mod');
+
+var args = process.argv.slice(2);
+if (args.length < 1 || args.length > 2 || /^--?h(elp)?$/.test(args[0])) {
+  console.log('usage: ./monitor.js pid [interval]');
+  return process.exit(1);
+}
+
+var pid = args[0], interval = args[1] || 500;
+
+console.log('timestamp(ms),cpu(%),mem(b)');
+trackPID(pid, interval, function (result) {
+  console.log('%d,%d,%d',Date.now(),result.cpu, result.memory)
+});

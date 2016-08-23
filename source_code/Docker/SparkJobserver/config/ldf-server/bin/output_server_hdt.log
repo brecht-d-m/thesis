@@ -1,0 +1,1598 @@
+Master 17766 running.
+Worker 17768 running on http://localhost:8000/.
+Worker 17769 running on http://localhost:8000/.
+Worker 17773 running on http://localhost:8000/.
+Worker 17771 running on http://localhost:8000/.
+{ features: [ limit: true ],
+  datasource: 'hdt_test_100k',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Retailer11',
+  predicate: 'http://purl.org/goodrelations/offers',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer0',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer1',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer10',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer1',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer103',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer1',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer103',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer103',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product179',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product179',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product126',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product126',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer109',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer11',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer120',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer121',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer11',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer11',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer121',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer121',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product108',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product108',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product23',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product23',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer126',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer13',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer128',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer13',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer126',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer137',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer13',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer126',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product198',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product46',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product198',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product46',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer14',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer142',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer15',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer161',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer161',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer161',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product88',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product88',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer169',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer17',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer174',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer17',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer19',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer17',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product149',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product149',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer2',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer20',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer21',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer211',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer20',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer211',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer20',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer211',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product220',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product70',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product70',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product220',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer230',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer235',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer24',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer25',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer26',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer262',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer264',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer279',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer262',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer264',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer262',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer264',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product218',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product197',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product218',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product197',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer28',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer29',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer296',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer293',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer28',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer293',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer28',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer296',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer293',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer296',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product33',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product44',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product33',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product44',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer3',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer307',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer304',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer31',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer307',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer304',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer31',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer307',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer31',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer304',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product201',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product207',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product201',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product207',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer32',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer325',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer326',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer338',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer338',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer326',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer338',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer326',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product26',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product26',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product53',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product53',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer35',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer350',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer358',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer36',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer36',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer36',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product139',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product139',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer364',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer372',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer4',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer40',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer40',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer40',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product77',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product77',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer401',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer406',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer411',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer415',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer406',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer411',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer401',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer401',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer406',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer411',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product95',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product117',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product86',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product117',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product95',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product86',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer421',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer43',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer444',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer44',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer43',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer421',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer44',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer421',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer43',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer44',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product36',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product36',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product130',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product130',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer45',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer452',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer460',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer45',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer47',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer45',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer47',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer47',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product203',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product203',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product47',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product47',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer471',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer472',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer475',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer477',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer472',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer477',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer472',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer477',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product158',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product144',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product144',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product158',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer479',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer494',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer479',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer497',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer496',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer479',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product217',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product217',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer5',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer501',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer510',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer511',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer510',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer510',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product64',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product64',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer518',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer519',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer52',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer519',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer521',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer519',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product185',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product185',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer528',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer53',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer539',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer537',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer528',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer537',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer539',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer537',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer539',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer528',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product115',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product89',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product154',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product89',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product154',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product115',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer54',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer544',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer546',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer55',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer556',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer56',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer578',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer556',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer580',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer580',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer556',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product57',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product57',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer580',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true, offset: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Retailer11',
+  predicate: 'http://purl.org/goodrelations/offers',
+  limit: 100,
+  offset: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product55',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product55',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer589',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer593',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer586',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer596',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer586',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer589',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer586',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer593',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer589',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer593',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product106',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product106',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product19',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product140',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product19',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product140',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer6',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer610',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer6',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer626',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer647',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer6',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product135',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product135',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer653',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer67',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer670',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer693',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer693',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer693',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product234',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product234',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer7',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer72',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer729',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer74',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer72',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer729',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer72',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer729',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product18',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product18',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product236',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product236',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer78',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer8',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer80',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer816',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer816',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer816',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product98',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product98',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer83',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer86',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer875',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer88',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer897',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer9',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer92',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer93',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer9',
+  predicate: 'http://purl.org/goodrelations/price',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer9',
+  predicate: 'http://purl.org/goodrelations/includes',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product105',
+  predicate: 'http://www.w3.org/1999/02/22-rdf-syntax-ns#type',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Product105',
+  predicate: 'http://ogp.me/ns#title',
+  limit: 100 }
+{ features: [ triplePattern: true, limit: true ],
+  datasource: 'hdt_test_100k',
+  subject: 'http://db.uwaterloo.ca/~galuc/wsdbm/Offer98',
+  predicate: 'http://purl.org/goodrelations/validThrough',
+  limit: 100 }
+Stopping worker 17768
+Stopping worker 17773
+Stopping worker 17769
+Stopping worker 17771

@@ -1,0 +1,16 @@
+
+> pre-commit@0.0.9 install /home/brecht/Thesis/Thesis-Sourcecode/Server.js-master/node_modules/pre-commit
+> node install.js
+
+
+> pre-commit@0.0.9 uninstall /home/brecht/Thesis/Thesis-Sourcecode/Server.js-master/node_modules/pre-commit
+> node uninstall.js
+
+
+> hdt@1.2.4 install /home/brecht/Thesis/Thesis-Sourcecode/Server.js-master/node_modules/hdt
+> node-gyp rebuild
+
+
+> contextify@0.1.15 install /home/brecht/Thesis/Thesis-Sourcecode/Server.js-master/node_modules/jsonld/node_modules/jsdom/node_modules/contextify
+> node-gyp rebuild
+

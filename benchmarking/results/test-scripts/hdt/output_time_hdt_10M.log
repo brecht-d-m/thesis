@@ -1,0 +1,2215 @@
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_10_C1.txt, 0:48.45
+[Tue Jul 05 2016 09:44:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:05 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_10_C2.txt, 0:39.34
+[Tue Jul 05 2016 09:44:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_10_C3.txt, 0:00.23
+[Tue Jul 05 2016 09:44:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_10_F1.txt, 0:00.34
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_10_F2.txt, 0:00.25
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_10_F3.txt, 0:00.26
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_10_F4.txt, 0:00.30
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_10_F5.txt, 0:00.34
+[Tue Jul 05 2016 09:44:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_10_L1.txt, 0:00.26
+[Tue Jul 05 2016 09:44:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_10_L2.txt, 0:00.23
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_10_L3.txt, 0:00.44
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_10_L4.txt, 0:02.24
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_10_L5.txt, 0:03.41
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_10_S1.txt, 0:01.47
+[Tue Jul 05 2016 09:44:19 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_10_S2.txt, 0:04.35
+[Tue Jul 05 2016 09:44:19 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:19 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:19 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:19 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_10_S3.txt, 0:00.23
+[Tue Jul 05 2016 09:44:19 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:19 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:19 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:19 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_10_S4.txt, 0:00.31
+[Tue Jul 05 2016 09:44:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_10_S5.txt, 0:00.32
+[Tue Jul 05 2016 09:44:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_10_S6.txt, 0:00.27
+[Tue Jul 05 2016 09:44:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_10_S7.txt, 0:00.33
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_11_C1.txt, 0:00.29
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_11_C2.txt, 0:00.20
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_11_C3.txt, 0:00.31
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_11_F1.txt, 0:00.20
+[Tue Jul 05 2016 09:44:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_11_F2.txt, 0:00.31
+[Tue Jul 05 2016 09:44:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_11_F3.txt, 0:00.20
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_11_F4.txt, 0:05.35
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_11_F5.txt, 0:01.59
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_11_L1.txt, 0:00.71
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_11_L2.txt, 0:02.64
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_11_L3.txt, 0:00.39
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_11_L4.txt, 0:02.14
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_11_L5.txt, 0:02.09
+[Tue Jul 05 2016 09:44:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_11_S1.txt, 0:00.31
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_11_S2.txt, 0:10.18
+[Tue Jul 05 2016 09:44:48 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_11_S3.txt, 0:00.60
+[Tue Jul 05 2016 09:44:48 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:48 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:48 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:48 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_11_S4.txt, 0:00.32
+[Tue Jul 05 2016 09:44:49 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:49 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:49 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:49 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_11_S5.txt, 0:00.32
+[Tue Jul 05 2016 09:44:49 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:49 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:49 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_11_S6.txt, 0:00.20
+[Tue Jul 05 2016 09:44:49 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:49 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:49 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_11_S7.txt, 0:00.36
+[Tue Jul 05 2016 09:44:50 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:50 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:50 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:50 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:50 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:50 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:50 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:50 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_12_C1.txt, 0:00.35
+[Tue Jul 05 2016 09:44:50 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:50 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:50 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:50 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:50 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:50 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:50 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:50 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:50 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:50 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_12_C2.txt, 0:00.28
+[Tue Jul 05 2016 09:44:50 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:50 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:50 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:50 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:50 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:50 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_12_C3.txt, 0:00.32
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_12_F1.txt, 0:00.28
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_12_F2.txt, 0:00.20
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_12_F3.txt, 0:00.21
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_12_F4.txt, 0:00.33
+[Tue Jul 05 2016 09:44:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_12_F5.txt, 0:00.29
+[Tue Jul 05 2016 09:44:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_12_L1.txt, 0:00.27
+[Tue Jul 05 2016 09:44:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:44:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_12_L2.txt, 0:00.20
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_12_L3.txt, 0:00.39
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_12_L4.txt, 0:02.09
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_12_L5.txt, 0:03.36
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_12_S1.txt, 0:00.93
+[Tue Jul 05 2016 09:45:03 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_12_S2.txt, 0:04.26
+[Tue Jul 05 2016 09:45:03 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:03 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:03 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:03 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_12_S3.txt, 0:00.28
+[Tue Jul 05 2016 09:45:04 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:04 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:04 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:04 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_12_S4.txt, 0:00.20
+[Tue Jul 05 2016 09:45:04 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:04 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:04 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:04 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_12_S5.txt, 0:00.28
+[Tue Jul 05 2016 09:45:04 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:04 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:04 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_12_S6.txt, 0:00.26
+[Tue Jul 05 2016 09:45:04 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:04 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:04 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_12_S7.txt, 0:00.21
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_13_C1.txt, 0:00.25
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_13_C2.txt, 0:00.25
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_13_C3.txt, 0:00.20
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:05 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_13_F1.txt, 0:00.27
+[Tue Jul 05 2016 09:45:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_13_F2.txt, 0:00.26
+[Tue Jul 05 2016 09:45:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_13_F3.txt, 0:00.33
+[Tue Jul 05 2016 09:45:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_13_F4.txt, 0:00.30
+[Tue Jul 05 2016 09:45:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_13_F5.txt, 0:00.36
+[Tue Jul 05 2016 09:45:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_13_L1.txt, 0:00.28
+[Tue Jul 05 2016 09:45:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_13_L2.txt, 0:00.33
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_13_L3.txt, 0:00.43
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_13_L4.txt, 0:02.11
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_13_L5.txt, 0:02.58
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_13_S1.txt, 0:00.98
+[Tue Jul 05 2016 09:45:20 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_13_S2.txt, 0:06.14
+[Tue Jul 05 2016 09:45:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_13_S3.txt, 0:00.30
+[Tue Jul 05 2016 09:45:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_13_S4.txt, 0:00.20
+[Tue Jul 05 2016 09:45:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_13_S5.txt, 0:00.25
+[Tue Jul 05 2016 09:45:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_13_S6.txt, 0:00.29
+[Tue Jul 05 2016 09:45:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_13_S7.txt, 0:00.26
+[Tue Jul 05 2016 09:45:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_14_C1.txt, 0:00.21
+[Tue Jul 05 2016 09:45:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_14_C2.txt, 0:00.34
+[Tue Jul 05 2016 09:45:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_14_C3.txt, 0:00.32
+[Tue Jul 05 2016 09:45:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_14_F1.txt, 0:00.30
+[Tue Jul 05 2016 09:45:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:45:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_14_F2.txt, 0:00.23
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_14_F3.txt, 0:02.78
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_14_F4.txt, 0:04.06
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_14_F5.txt, 0:01.60
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_14_L1.txt, 0:00.56
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_14_L2.txt, 0:01.62
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_14_L3.txt, 0:00.45
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_14_L4.txt, 0:02.29
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_14_L5.txt, 0:02.52
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_14_S1.txt, 0:00.91
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_14_S2.txt, 0:06.98
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_14_S3.txt, 0:04.38
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_14_S4.txt, 0:03.47
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_14_S5.txt, 0:04.93
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_14_S6.txt, 0:01.46
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_14_S7.txt, 0:00.26
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_15_C1.txt, 0:50.52
+[Tue Jul 05 2016 09:47:20 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_15_C2.txt, 0:28.77
+[Tue Jul 05 2016 09:47:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:20 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_15_C3.txt, 0:00.37
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_15_F1.txt, 0:00.24
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_15_F2.txt, 0:00.21
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_15_F3.txt, 0:00.21
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_15_F4.txt, 0:00.21
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:21 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_15_F5.txt, 0:00.24
+[Tue Jul 05 2016 09:47:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_15_L1.txt, 0:00.27
+[Tue Jul 05 2016 09:47:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_15_L2.txt, 0:00.23
+[Tue Jul 05 2016 09:47:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_15_L3.txt, 0:00.35
+[Tue Jul 05 2016 09:47:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:47:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_15_L4.txt, 0:00.26
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_15_L5.txt, 0:02.57
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_15_S1.txt, 0:00.87
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_15_S2.txt, 0:01.40
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_15_S3.txt, 0:04.19
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_15_S4.txt, 0:03.56
+[Tue Jul 05 2016 09:47:38 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_15_S5.txt, 0:02.32
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_15_S6.txt, 0:02.44
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_15_S7.txt, 0:00.25
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_16_C1.txt, 0:50.19
+[Tue Jul 05 2016 09:48:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:48:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:48:52 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_16_C2.txt, 0:21.85
+[Tue Jul 05 2016 09:48:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:48:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:48:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:48:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:48:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:48:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_16_C3.txt, 0:00.26
+[Tue Jul 05 2016 09:48:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:48:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:48:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:48:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:48:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:48:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_16_F1.txt, 0:00.28
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_16_F2.txt, 0:01.03
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_16_F3.txt, 0:00.41
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_16_F4.txt, 0:04.85
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_16_F5.txt, 0:00.93
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_16_L1.txt, 0:00.56
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_16_L2.txt, 0:12.73
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_16_L3.txt, 0:00.41
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_16_L4.txt, 0:02.29
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_16_L5.txt, 0:03.32
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_16_S1.txt, 0:00.95
+[Tue Jul 05 2016 09:49:22 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_16_S2.txt, 0:01.11
+[Tue Jul 05 2016 09:49:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:49:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:49:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:49:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_16_S3.txt, 0:00.25
+[Tue Jul 05 2016 09:49:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:49:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:49:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:49:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_16_S4.txt, 0:00.20
+[Tue Jul 05 2016 09:49:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:49:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:49:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:49:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_16_S5.txt, 0:00.28
+[Tue Jul 05 2016 09:49:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:49:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:49:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_16_S6.txt, 0:00.24
+[Tue Jul 05 2016 09:49:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:49:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:49:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_16_S7.txt, 0:00.31
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_17_C1.txt, 0:49.65
+[Tue Jul 05 2016 09:50:21 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_17_C2.txt, 0:08.98
+[Tue Jul 05 2016 09:50:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_17_C3.txt, 0:00.29
+[Tue Jul 05 2016 09:50:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_17_F1.txt, 0:00.33
+[Tue Jul 05 2016 09:50:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_17_F2.txt, 0:00.31
+[Tue Jul 05 2016 09:50:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_17_F3.txt, 0:00.23
+[Tue Jul 05 2016 09:50:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_17_F4.txt, 0:00.26
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_17_F5.txt, 0:00.90
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_17_L1.txt, 0:00.62
+[Tue Jul 05 2016 09:50:37 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_17_L2.txt, 0:12.35
+[Tue Jul 05 2016 09:50:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_17_L3.txt, 0:00.21
+[Tue Jul 05 2016 09:50:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_17_L4.txt, 0:00.25
+[Tue Jul 05 2016 09:50:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_17_L5.txt, 0:00.26
+[Tue Jul 05 2016 09:50:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_17_S1.txt, 0:00.28
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_17_S2.txt, 0:01.48
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_17_S3.txt, 0:04.27
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_17_S4.txt, 0:03.27
+[Tue Jul 05 2016 09:50:51 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_17_S5.txt, 0:03.95
+[Tue Jul 05 2016 09:50:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_17_S6.txt, 0:00.32
+[Tue Jul 05 2016 09:50:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_17_S7.txt, 0:00.25
+[Tue Jul 05 2016 09:50:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_18_C1.txt, 0:00.25
+[Tue Jul 05 2016 09:50:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_18_C2.txt, 0:00.29
+[Tue Jul 05 2016 09:50:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_18_C3.txt, 0:00.33
+[Tue Jul 05 2016 09:50:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_18_F1.txt, 0:00.31
+[Tue Jul 05 2016 09:50:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:50:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_18_F2.txt, 0:00.31
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_18_F3.txt, 0:01.67
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_18_F4.txt, 0:04.59
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_18_F5.txt, 0:01.25
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_18_L1.txt, 0:00.63
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_18_L2.txt, 0:12.80
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_18_L3.txt, 0:00.38
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_18_L4.txt, 0:02.14
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_18_L5.txt, 0:03.36
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_18_S1.txt, 0:00.93
+[Tue Jul 05 2016 09:51:22 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_18_S2.txt, 0:00.76
+[Tue Jul 05 2016 09:51:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_18_S3.txt, 0:00.20
+[Tue Jul 05 2016 09:51:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_18_S4.txt, 0:00.25
+[Tue Jul 05 2016 09:51:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_18_S5.txt, 0:00.28
+[Tue Jul 05 2016 09:51:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_18_S6.txt, 0:00.28
+[Tue Jul 05 2016 09:51:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_18_S7.txt, 0:00.33
+[Tue Jul 05 2016 09:51:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_19_C1.txt, 0:00.21
+[Tue Jul 05 2016 09:51:34 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_19_C2.txt, 0:10.71
+[Tue Jul 05 2016 09:51:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_19_C3.txt, 0:00.27
+[Tue Jul 05 2016 09:51:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_19_F1.txt, 0:00.21
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_19_F2.txt, 0:00.27
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_19_F3.txt, 0:00.22
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_19_F4.txt, 0:00.25
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_19_F5.txt, 0:00.24
+[Tue Jul 05 2016 09:51:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_19_L1.txt, 0:00.24
+[Tue Jul 05 2016 09:51:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_19_L2.txt, 0:00.24
+[Tue Jul 05 2016 09:51:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_19_L3.txt, 0:00.20
+[Tue Jul 05 2016 09:51:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_19_L4.txt, 0:00.33
+[Tue Jul 05 2016 09:51:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_19_L5.txt, 0:00.25
+[Tue Jul 05 2016 09:51:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_19_S1.txt, 0:00.26
+[Tue Jul 05 2016 09:51:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_19_S2.txt, 0:00.20
+[Tue Jul 05 2016 09:51:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_19_S3.txt, 0:00.31
+[Tue Jul 05 2016 09:51:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_19_S4.txt, 0:00.25
+[Tue Jul 05 2016 09:51:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_19_S5.txt, 0:00.31
+[Tue Jul 05 2016 09:51:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_19_S6.txt, 0:00.28
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_19_S7.txt, 0:00.26
+[Tue Jul 05 2016 09:51:52 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_1_C1.txt, 0:13.68
+[Tue Jul 05 2016 09:51:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_1_C2.txt, 0:00.32
+[Tue Jul 05 2016 09:51:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_1_C3.txt, 0:00.29
+[Tue Jul 05 2016 09:51:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:51:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_1_F1.txt, 0:00.32
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_1_F2.txt, 0:00.59
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_1_F3.txt, 0:01.17
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_1_F4.txt, 0:04.34
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_1_F5.txt, 0:01.96
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_1_L1.txt, 0:00.49
+[Tue Jul 05 2016 09:52:05 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_1_L2.txt, 0:03.59
+[Tue Jul 05 2016 09:52:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_1_L3.txt, 0:00.27
+[Tue Jul 05 2016 09:52:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_1_L4.txt, 0:00.20
+[Tue Jul 05 2016 09:52:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_1_L5.txt, 0:00.23
+[Tue Jul 05 2016 09:52:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:06 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_1_S1.txt, 0:00.26
+[Tue Jul 05 2016 09:52:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_1_S2.txt, 0:00.21
+[Tue Jul 05 2016 09:52:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_1_S3.txt, 0:00.30
+[Tue Jul 05 2016 09:52:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_1_S4.txt, 0:00.25
+[Tue Jul 05 2016 09:52:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_1_S5.txt, 0:00.24
+[Tue Jul 05 2016 09:52:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_1_S6.txt, 0:00.26
+[Tue Jul 05 2016 09:52:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_1_S7.txt, 0:00.32
+[Tue Jul 05 2016 09:52:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_20_C1.txt, 0:00.32
+[Tue Jul 05 2016 09:52:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:22 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_20_C2.txt, 0:13.39
+[Tue Jul 05 2016 09:52:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_20_C3.txt, 0:00.27
+[Tue Jul 05 2016 09:52:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_20_F1.txt, 0:00.25
+[Tue Jul 05 2016 09:52:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_20_F2.txt, 0:00.26
+[Tue Jul 05 2016 09:52:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_20_F3.txt, 0:00.20
+[Tue Jul 05 2016 09:52:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_20_F4.txt, 0:00.28
+[Tue Jul 05 2016 09:52:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_20_F5.txt, 0:00.26
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_20_L1.txt, 0:00.69
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_20_L2.txt, 0:07.62
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_20_L3.txt, 0:00.54
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_20_L4.txt, 0:02.06
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_20_L5.txt, 0:01.32
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_20_S1.txt, 0:01.02
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_20_S2.txt, 0:01.45
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_20_S3.txt, 0:04.39
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_20_S4.txt, 0:03.44
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_20_S5.txt, 0:04.86
+[Tue Jul 05 2016 09:52:51 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_20_S6.txt, 0:00.59
+[Tue Jul 05 2016 09:52:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_20_S7.txt, 0:00.35
+[Tue Jul 05 2016 09:52:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_2_C1.txt, 0:00.30
+[Tue Jul 05 2016 09:52:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_2_C2.txt, 0:00.29
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_2_C3.txt, 0:00.27
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_2_F1.txt, 0:00.21
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_2_F2.txt, 0:00.27
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:52:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_2_F3.txt, 0:00.21
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_2_F4.txt, 0:04.47
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_2_F5.txt, 0:01.77
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_2_L1.txt, 0:00.55
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_2_L2.txt, 0:12.86
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_2_L3.txt, 0:00.47
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_2_L4.txt, 0:01.96
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_2_L5.txt, 0:03.04
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_2_S1.txt, 0:00.91
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_2_S2.txt, 0:01.47
+[Tue Jul 05 2016 09:53:23 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_2_S3.txt, 0:02.37
+[Tue Jul 05 2016 09:53:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_2_S4.txt, 0:00.26
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_2_S5.txt, 0:04.65
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_2_S6.txt, 0:00.47
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_2_S7.txt, 0:00.34
+[Tue Jul 05 2016 09:53:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:34 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_3_C1.txt, 0:05.26
+[Tue Jul 05 2016 09:53:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:34 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_3_C2.txt, 0:00.28
+[Tue Jul 05 2016 09:53:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_3_C3.txt, 0:00.34
+[Tue Jul 05 2016 09:53:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_3_F1.txt, 0:00.27
+[Tue Jul 05 2016 09:53:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:35 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_3_F2.txt, 0:00.23
+[Tue Jul 05 2016 09:53:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_3_F3.txt, 0:00.31
+[Tue Jul 05 2016 09:53:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_3_F4.txt, 0:00.34
+[Tue Jul 05 2016 09:53:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:36 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_3_F5.txt, 0:00.33
+[Tue Jul 05 2016 09:53:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_3_L1.txt, 0:00.25
+[Tue Jul 05 2016 09:53:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_3_L2.txt, 0:00.26
+[Tue Jul 05 2016 09:53:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:37 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_3_L3.txt, 0:00.33
+[Tue Jul 05 2016 09:53:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_3_L4.txt, 0:00.32
+[Tue Jul 05 2016 09:53:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_3_L5.txt, 0:00.21
+[Tue Jul 05 2016 09:53:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_3_S1.txt, 0:00.21
+[Tue Jul 05 2016 09:53:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:38 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_3_S2.txt, 0:00.24
+[Tue Jul 05 2016 09:53:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_3_S3.txt, 0:00.29
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_3_S4.txt, 0:03.36
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_3_S5.txt, 0:04.82
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_3_S6.txt, 0:01.51
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_3_S7.txt, 0:00.39
+[Tue Jul 05 2016 09:53:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:51 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_4_C1.txt, 0:02.39
+[Tue Jul 05 2016 09:53:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:51 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_4_C2.txt, 0:00.34
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_4_C3.txt, 0:00.26
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_4_F1.txt, 0:00.27
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_4_F2.txt, 0:00.20
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_4_F3.txt, 0:00.25
+[Tue Jul 05 2016 09:53:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_4_F4.txt, 0:00.25
+[Tue Jul 05 2016 09:53:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_4_F5.txt, 0:00.35
+[Tue Jul 05 2016 09:53:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_4_L1.txt, 0:00.31
+[Tue Jul 05 2016 09:53:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:53:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_4_L2.txt, 0:00.21
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_4_L3.txt, 0:00.42
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_4_L4.txt, 0:02.25
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_4_L5.txt, 0:05.06
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_4_S1.txt, 0:01.17
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_4_S2.txt, 0:01.51
+[Tue Jul 05 2016 09:54:07 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_4_S3.txt, 0:02.91
+[Tue Jul 05 2016 09:54:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_4_S4.txt, 0:00.31
+[Tue Jul 05 2016 09:54:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:07 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_4_S5.txt, 0:00.21
+[Tue Jul 05 2016 09:54:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_4_S6.txt, 0:00.24
+[Tue Jul 05 2016 09:54:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_4_S7.txt, 0:00.24
+[Tue Jul 05 2016 09:54:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_5_C1.txt, 0:00.28
+[Tue Jul 05 2016 09:54:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 09:54:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_5_C2.txt, 0:00.22
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_5_C3.txt, 4:42.54
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_5_F1.txt, 0:01.87
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_5_F2.txt, 0:05.28
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_5_F3.txt, 0:00.61
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_5_F4.txt, 0:04.29
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_5_F5.txt, 0:01.69
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_5_L1.txt, 0:00.71
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_5_L2.txt, 0:04.09
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_5_L3.txt, 0:00.37
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_5_L4.txt, 0:02.06
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_5_L5.txt, 0:05.33
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_5_S1.txt, 0:01.04
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_5_S2.txt, 0:05.42
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_5_S3.txt, 0:04.18
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_5_S4.txt, 0:03.42
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_5_S5.txt, 0:04.81
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_5_S6.txt, 0:01.53
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_5_S7.txt, 0:00.30
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_6_C1.txt, 0:49.58
+[Tue Jul 05 2016 10:00:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:39 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_6_C2.txt, 0:10.90
+[Tue Jul 05 2016 10:00:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_6_C3.txt, 0:00.23
+[Tue Jul 05 2016 10:00:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_6_F1.txt, 0:00.25
+[Tue Jul 05 2016 10:00:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_6_F2.txt, 0:00.25
+[Tue Jul 05 2016 10:00:40 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:40 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:40 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:40 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:40 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:40 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_6_F3.txt, 0:00.28
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_6_F4.txt, 0:04.20
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_6_F5.txt, 0:01.16
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_6_L1.txt, 0:00.68
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_6_L2.txt, 0:03.13
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_6_L3.txt, 0:00.45
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_6_L4.txt, 0:02.04
+[Tue Jul 05 2016 10:00:54 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_6_L5.txt, 0:02.28
+[Tue Jul 05 2016 10:00:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_6_S1.txt, 0:00.30
+[Tue Jul 05 2016 10:00:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_6_S2.txt, 0:00.27
+[Tue Jul 05 2016 10:00:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:00:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_6_S3.txt, 0:00.31
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_6_S4.txt, 0:01.11
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_6_S5.txt, 0:04.83
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_6_S6.txt, 0:01.61
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_6_S7.txt, 0:00.27
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_7_C1.txt, 0:49.09
+[Tue Jul 05 2016 10:02:23 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_7_C2.txt, 0:31.18
+[Tue Jul 05 2016 10:02:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_7_C3.txt, 0:00.21
+[Tue Jul 05 2016 10:02:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_7_F1.txt, 0:00.31
+[Tue Jul 05 2016 10:02:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_7_F2.txt, 0:00.26
+[Tue Jul 05 2016 10:02:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_7_F3.txt, 0:00.34
+[Tue Jul 05 2016 10:02:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_7_F4.txt, 0:00.21
+[Tue Jul 05 2016 10:02:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_7_F5.txt, 0:00.31
+[Tue Jul 05 2016 10:02:25 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:25 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:25 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_7_L1.txt, 0:00.33
+[Tue Jul 05 2016 10:02:25 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:25 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:25 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_7_L2.txt, 0:00.33
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_7_L3.txt, 0:00.42
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_7_L4.txt, 0:02.10
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_7_L5.txt, 0:01.83
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_7_S1.txt, 0:00.90
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_7_S2.txt, 0:05.45
+[Tue Jul 05 2016 10:02:39 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_7_S3.txt, 0:02.80
+[Tue Jul 05 2016 10:02:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_7_S4.txt, 0:00.26
+[Tue Jul 05 2016 10:02:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_7_S5.txt, 0:00.29
+[Tue Jul 05 2016 10:02:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:39 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_7_S6.txt, 0:00.20
+[Tue Jul 05 2016 10:02:40 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:40 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:40 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_7_S7.txt, 0:00.27
+[Tue Jul 05 2016 10:02:40 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:40 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:40 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:40 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:40 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:40 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:40 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:40 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_8_C1.txt, 0:00.35
+[Tue Jul 05 2016 10:02:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:52 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:52 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_8_C2.txt, 0:12.42
+[Tue Jul 05 2016 10:02:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_8_C3.txt, 0:00.24
+[Tue Jul 05 2016 10:02:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_8_F1.txt, 0:00.32
+[Tue Jul 05 2016 10:02:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:53 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_8_F2.txt, 0:00.32
+[Tue Jul 05 2016 10:02:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_8_F3.txt, 0:00.32
+[Tue Jul 05 2016 10:02:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_8_F4.txt, 0:00.20
+[Tue Jul 05 2016 10:02:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_8_F5.txt, 0:00.24
+[Tue Jul 05 2016 10:02:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:54 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_8_L1.txt, 0:00.31
+[Tue Jul 05 2016 10:02:55 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:55 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:55 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_8_L2.txt, 0:00.27
+[Tue Jul 05 2016 10:02:55 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:02:55 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_8_L3.txt, 0:00.25
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_8_L4.txt, 0:02.15
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_8_L5.txt, 0:02.03
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_8_S1.txt, 0:00.95
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_8_S2.txt, 0:05.61
+[Tue Jul 05 2016 10:03:07 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_8_S3.txt, 0:01.78
+[Tue Jul 05 2016 10:03:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_8_S4.txt, 0:00.30
+[Tue Jul 05 2016 10:03:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_8_S5.txt, 0:00.27
+[Tue Jul 05 2016 10:03:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:08 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_8_S6.txt, 0:00.33
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_8_S7.txt, 0:00.21
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_9_C1.txt, 0:00.28
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_9_C2.txt, 0:00.21
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:09 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_9_C3.txt, 0:00.23
+[Tue Jul 05 2016 10:03:10 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:10 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:10 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:10 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:10 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:10 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_9_F1.txt, 0:00.35
+[Tue Jul 05 2016 10:03:10 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:10 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:10 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:10 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:10 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:10 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:10 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:10 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_9_F2.txt, 0:00.20
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_9_F3.txt, 0:03.91
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_9_F4.txt, 0:04.66
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_9_F5.txt, 0:01.57
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_9_L1.txt, 0:00.60
+[Tue Jul 05 2016 10:03:22 GMT+0200 (CEST)] WARNING TriplePatternIterator connect EADDRNOTAVAIL
+ERROR: An error occurred during query execution.
+
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+
+events.js:72
+        throw er; // Unhandled 'error' event
+              ^
+Error: connect EADDRNOTAVAIL
+    at errnoException (net.js:901:11)
+    at connect (net.js:764:19)
+    at net.js:842:9
+    at asyncCallback (dns.js:68:16)
+    at Object.onanswer [as oncomplete] (dns.js:121:9)
+Command exited with non-zero status 8
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_9_L2.txt, 0:01.60
+[Tue Jul 05 2016 10:03:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:22 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_9_L3.txt, 0:00.22
+[Tue Jul 05 2016 10:03:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_9_L4.txt, 0:00.21
+[Tue Jul 05 2016 10:03:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_9_L5.txt, 0:00.23
+[Tue Jul 05 2016 10:03:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_9_S1.txt, 0:00.33
+[Tue Jul 05 2016 10:03:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:23 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_9_S2.txt, 0:00.21
+[Tue Jul 05 2016 10:03:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_9_S3.txt, 0:00.28
+[Tue Jul 05 2016 10:03:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_9_S4.txt, 0:00.21
+[Tue Jul 05 2016 10:03:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:24 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_9_S5.txt, 0:00.32
+[Tue Jul 05 2016 10:03:25 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:25 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:25 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_9_S6.txt, 0:00.32
+[Tue Jul 05 2016 10:03:25 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:25 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+[Tue Jul 05 2016 10:03:25 GMT+0200 (CEST)] WARNING ReorderingGraphPatternIterator connect EADDRNOTAVAIL
+watdiv/watdiv/bin/Release/datasets/10M/gen_queries/gen_queries_9_S7.txt, 0:00.34

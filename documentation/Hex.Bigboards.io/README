@@ -1,0 +1,21 @@
+# Hex.Bigboards.io
+
+## Creating stack
+
+To create a stack, go to [hive.bigboards.io](hive.bigboards.io). As a base, the Apache Spark stack was used (this can be forked). 
+
+## Available hexes
+
+There are two available hexes:
+- curry
+- thompson
+
+These are available via: <name>.hex.bigboards.io:7000.
+
+## Access from outside elis network
+
+1. Setup vpn to UGent
+2. `ssh -L 1070:curry.hex.bigboards.io:7000 <username>@ssh.elis.ugent.be`
+
+Via this way, you can access the web interface of the hex. All the other ports are blocked by the UGent.
+

@@ -1,0 +1,83 @@
+# Execute with $> impala-shell
+# If connected, you will see: [$hostname:21000] >
+
+# This example will create a table with approx 10M triples
+
+# Add files to hdfs
+1. create dir e.g. /tmp/watdiv.100k
+2. put file in hdfs
+
+/usr/local/hadoop/bin/hdfs dfs -mkdir /tmp/watdiv.500k
+/usr/local/hadoop/bin/hdfs dfs -put /home/brecht/Thesis/watdiv/watdiv/bin/Release/datasets/500k/watdiv.500k.csv /tmp/watdiv.500k/watdiv.500k.csv
+
+########
+# Drop if the table exists (very high chance)
+# See: http://www.cloudera.com/documentation/archive/impala/2-x/2-1-x/topics/impala_tutorial.html
+DROP TABLE IF EXISTS temp_table;
+
+########
+# Create the table
+CREATE EXTERNAL TABLE temp_table_100k
+(
+   subject STRING,
+   predicate STRING,
+   object STRING
+)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY ','
+LOCATION '/tmp/watdiv.100k';
+
+CREATE EXTERNAL TABLE temp_table_500k
+(
+   subject STRING,
+   predicate STRING,
+   object STRING
+)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY ','
+LOCATION '/tmp/watdiv.500k';
+
+CREATE EXTERNAL TABLE temp_table_1M
+(
+   subject STRING,
+   predicate STRING,
+   object STRING
+)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY ','
+LOCATION '/tmp/watdiv.1M';
+
+CREATE EXTERNAL TABLE temp_table_10M
+(
+   subject STRING,
+   predicate STRING,
+   object STRING
+)
+ROW FORMAT DELIMITED FIELDS TERMINATED BY ','
+LOCATION '/tmp/watdiv.10M';
+
+########
+# Create table with the parquet layout
+# See: http://www.cloudera.com/documentation/archive/impala/2-x/2-0-x/topics/impala_parquet.html
+CREATE TABLE temp_table
+(
+   subject STRING,
+   predicate STRING,
+   object STRING
+)
+STORED AS PARQUET;
+
+# INSERT OVERWRITE TABLE temp_table SELECT * FROM temp_table_100k;
+INSERT OVERWRITE TABLE temp_table SELECT * FROM temp_table_500k;
+# INSERT OVERWRITE TABLE temp_table SELECT * FROM temp_table_1M;
+INSERT OVERWRITE TABLE temp_table SELECT * FROM temp_table_10M;
+
+########
+# To check if it is loaded correctly
+SELECT COUNT(*) FROM temp_table_100k; # 109548
+SELECT COUNT(*) FROM temp_table_1M;   # 1107690
+SELECT COUNT(*) FROM temp_table_10M;  # 10989305
+
+SELECT COUNT(*) FROM temp_table;
+
+SELECT * FROM temp_table LIMIT 10;
+SELECT * FROM temp_table_100k LIMIT 10;
+SELECT * FROM temp_table_1M LIMIT 10;
+SELECT * FROM temp_table_10M LIMIT 10;

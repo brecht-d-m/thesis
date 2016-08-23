@@ -1,0 +1,12 @@
+#!/bin/sh
+FILES="$2/*"
+OUTPUT=$1
+
+rm $OUTPUT
+touch $OUTPUT
+
+echo "query_file," >> $OUTPUT
+for f in $FILES
+do
+	echo "$f," >> $OUTPUT
+done

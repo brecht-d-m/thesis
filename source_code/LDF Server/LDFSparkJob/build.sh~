@@ -1,0 +1,14 @@
+#!/bin/sh
+sbt package
+
+if [ -f src/main/scala/ldfspark/LDFSparkCountJob.scala~ ]; then
+	rm LDFSparkCountJob.scala~
+fi
+
+if [ -f src/main/scala/ldfspark/LDFSparkSearchJob.scala~ ]; then
+    rm LDFSparkSearchJob.scala~
+fi
+
+if [ -f src/main/scala/ldfspark/LDFSparkLoadJob.scala~ ]; then
+    rm LDFSparkLoadJob.scala~
+fi

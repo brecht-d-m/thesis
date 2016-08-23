@@ -1,0 +1,237 @@
+/**
+ * Created by brecht on 11/21/15.
+ */
+
+var Datasource = require('./Datasource'),
+	http = require('http'),
+    N3 = require('n3'),
+    request_ = require('request'),
+    LRU = require('lru-cache'),
+    Readable = require('stream').Readable;
+
+var ENDPOINT_ERROR = 'Error accessing SPARK endpoint';
+
+function SparkDatasource(options) {
+    if(!(this instanceof SparkDatasource))
+        return new SparkDatasource(options);
+    Datasource.call(this, options);
+
+    // Set endpoint URL
+    options = options || {};
+    this._endpointHost = (options.endpointHost || 'localhost').replace(/[\?#][^]*$/, '');
+    this._appName = (options.appName || '');
+    this._classPath = (options.classPath ||'');
+    this._countClassPath = (options.countClassPath ||'');
+    this._context = (options.context || '');
+    this._sync = (options.sync ||'');
+	this._timeout = (options.timeout ||'');
+
+	// Search job
+	this._endpointPort = (options.endpointPort||8090);
+	this._endpointPath = '/jobs?';
+    this._endpointPath += 'appName=' + this._appName;
+    this._endpointPath += '&classPath=' + this._classPath;
+    this._endpointPath += '&context=' + this._context;
+    this._endpointPath += '&sync=' + this._sync;
+	this._endpointPath += '&timeout=' + this._timeout;
+
+	// Count job
+	this._countEndpointPort = (options.endpointPort||8090);
+	this._countEndpointPath = '/jobs?';
+    this._countEndpointPath += 'appName=' + this._appName;
+    this._countEndpointPath += '&classPath=' + this._countClassPath;
+    this._countEndpointPath += '&context=' + this._context;
+    this._countEndpointPath += '&sync=' + this._sync;
+	this._countEndpointPath += '&timeout=' + this._timeout;
+}
+
+Datasource.extend(SparkDatasource, ['triplePattern', 'limit', 'offset', 'totalCount']);
+
+// Writes the results of the query to the given triple stream
+SparkDatasource.prototype._executeQuery = function (query, tripleStream, metadataCallback) {
+
+	//console.log(query);
+
+	// Create data for post request
+	var data = this._createTriplePattern(query);
+
+    console.log(query);
+
+	// Insert paging
+    if(query.limit) {
+	    data["limit"] = query.limit;
+    }
+	if(!query.offset) {
+		data["offset"] = 0;
+	} else {
+		data["offset"] = query.offset;
+	}
+
+
+	data = JSON.stringify(data);
+
+	// Create the HTTP request
+	var options = {
+    	host: this._endpointHost,
+    	port: this._endpointPort,
+    	path: this._endpointPath,
+    	method: 'POST',
+    	headers: {
+      		'Content-Type': 'application/x-www-form-urlencoded',
+      		'Content-Length': data.length
+    	}
+  	};
+
+	// Send a count request
+	this._doTotalCount(data, metadataCallback);
+
+	var req = http.request(options, function(res) {
+    	res.setEncoding('utf8');
+    	res.on('data', function (chunk) {
+			var parser = N3.Parser();			
+			var result = JSON.parse(chunk);
+			// Parse result
+			for(var idx in result.result) {
+				parsedTriple = parseTriple(JSON.stringify(result.result[idx]));
+				if(parsedTriple.subject) { tripleStream.push(parsedTriple); }
+			}
+    	});
+    	res.on('end', function() {
+			//console.log('[COMPLETED]');
+			tripleStream.push(null);
+    	})
+  	});
+	
+	req.on('error', function(e) {
+    	console.log('problem with request: ' + e.message);
+  	});
+	
+	req.write(data);
+  	req.end();
+
+    // Emits an error on the triple stream
+    function emitError(error) {
+        error && tripleStream.emit('error', new Error(ENDPOINT_ERROR + ' ' + self._endpoint + ': ' + error.message));
+    }
+	
+};
+
+// Input something like:
+//  "[<http://dbpedia.org/resource/Catherine_Coleman>,<http://xmlns.com/foaf/0.1/name>,\"Catherine Coleman\"@en]"
+// Output: JSON object
+function parseTriple(triple) {
+	var tripleResult = {};
+	
+    console.log(triple);
+
+	triple = triple.substring(2, triple.length - 2);
+	
+	var beginIdx = 0;
+	var endIdx = 0;
+	
+	// Subject
+	for(var idx = 0, len = triple.length; idx < len; idx++) {
+		if(triple[idx] == '<') {
+			beginIdx = idx;
+		}
+		if(triple[idx] == '>') {
+			endIdx = idx;
+			// tripleResult["subject"] = triple.substring(beginIdx, endIdx + 1);
+			tripleResult["subject"] = triple.substring(beginIdx + 1, endIdx);
+			break;
+		}
+	}
+	
+	// Predicate
+	for(var idx = endIdx + 1, len = triple.length; idx < len; idx++) {
+		if(triple[idx] == '<') {
+			beginIdx = idx;
+		}
+		if(triple[idx] == '>') {
+			endIdx = idx;
+			// tripleResult["predicate"] = triple.substring(beginIdx, endIdx + 1);
+			tripleResult["predicate"] = triple.substring(beginIdx + 1, endIdx);
+			break;
+		}
+	}
+	
+	// Object
+	tripleResult["object"] = triple.substring(endIdx + 2, triple.length).replace(/\\/g, "");
+    if(tripleResult["object"][0] == ',') {
+        tripleResult["object"] = tripleResult["object"].substring(1, tripleResult["object"].length);
+    }
+    if(tripleResult["object"][0] == '"') {
+        tripleResult["object"] = tripleResult["object"].substring(1, tripleResult["object"].length);
+    }
+	//  - check if uri
+    console.log(tripleResult["object"]);
+	if(tripleResult["object"][0] == '<' && tripleResult["object"][tripleResult["object"].length - 1] == '>') {
+		tripleResult["object"] = tripleResult["object"].substring(1, tripleResult["object"].length - 1);
+	} else {
+        tripleResult["object"] = "\"" + tripleResult["object"] + "\""; 
+    }
+
+	return tripleResult;
+}
+
+SparkDatasource.prototype._doTotalCount = function(data, metadataCallback) {
+	// Create the HTTP request
+	var options = {
+    	host: this._endpointHost,
+    	port: this._endpointPort,
+    	path: this._countEndpointPath,
+    	method: 'POST',
+    	headers: {
+      		'Content-Type': 'application/x-www-form-urlencoded',
+      		'Content-Length': data.length
+    	}
+  	};
+
+	var req = http.request(options, function(res) {
+    	res.setEncoding('utf8');
+    	res.on('data', function (chunk) {
+			var result = JSON.parse(chunk).result[0];
+			var totalCount = parseInt(result.substring(1, result.length - 1));
+			metadataCallback({ totalCount: totalCount });
+			//console.log(totalCount);
+    	});
+  	});
+	
+	req.on('error', function(e) {
+    	console.log('problem with request: ' + e.message);
+  	});
+	
+	req.write(data);
+  	req.end();
+};
+
+// Creates a SPARQL pattern for the given triple pattern
+SparkDatasource.prototype._createTriplePattern = function (triple) {
+    var query = {};
+
+    // Add a possible subject IRI
+    if(triple.subject) query["subject"] = ('<' + triple.subject + '>');
+
+    // Add a possible predicate IRI
+    if(triple.predicate) query["predicate"] = ('<' + triple.predicate + '>');
+
+	if(triple.object) {
+		// Add a possible object IRI or literal
+		if (N3.Util.isIRI(triple.object)) {
+			query["object"] = ('<' + triple.object + '>');
+		} else if (!(literalMatch = /^"([^]*)"(?:(@[^"]+)|\^\^([^"]+))?$/.exec(triple.object))) {
+		    noop();
+		} else {
+			var queryObject = triple.object
+            queryObject = queryObject.replace(/"/g, "");
+            query["object"] = queryObject
+		}
+	}
+
+    return query;
+};
+
+// The empty function
+function noop() {}
+
+module.exports = SparkDatasource;

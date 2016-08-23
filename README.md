@@ -1,0 +1,3 @@
+# Thesis: Low latency querying of huge Linked Medical datasets using Big Data technologies
+A place to keep track of the articles, link to bookmarks,... 
+

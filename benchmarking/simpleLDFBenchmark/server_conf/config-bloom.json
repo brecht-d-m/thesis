@@ -1,0 +1,36 @@
+{
+  "title": "My Linked Data Fragments server",
+
+  "datasources": {
+    "watdiv100M": {
+      "title": "WatDiv 100M",
+      "type": "HdtDatasource",
+      "description": "WatDiv 100M",
+      "settings": { "file": "/data/hdt/watdiv.100M.hdt" }
+    }
+  },
+
+  "prefixes": {
+    "rdf":         "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+    "rdfs":        "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd":         "http://www.w3.org/2001/XMLSchema#",
+    "dc":          "http://purl.org/dc/terms/",
+    "foaf":        "http://xmlns.com/foaf/0.1/",
+    "dbpedia":     "http://dbpedia.org/resource/",
+    "dbpedia-owl": "http://dbpedia.org/ontology/",
+    "dbpprop":     "http://dbpedia.org/property/",
+    "hydra":       "http://www.w3.org/ns/hydra/core#",
+    "void":        "http://rdfs.org/ns/void#",
+    "amq":	       "http://semweb.mmlab.be/ns/amq#"
+  },
+
+  "filter": {
+    "probability": 0.00097656250,
+    "type": "BloomFilter"
+  },
+
+  "logging": {
+    "enabled": true,
+    "file": "access-bloom.log"
+  }
+}

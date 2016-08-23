@@ -1,0 +1,120 @@
+#!/usr/bin/env node
+
+/* Simple benchmarking application for testing different TPF clients */
+
+var fs = require('fs'),
+  LineByLineReader = require('line-by-line'),
+  spawn = require('child_process').spawn,
+  trackPID = require('./lib/monitor_mod'),
+  args = require('minimist')(process.argv.slice(2));
+
+if (args._.length < 2 || /^--?h(elp)?$/.test(args[0])) {
+  console.log('usage: ./run-tests.js queryFile fragment [[fragment]...] [-t timeout] [--optimize]');
+  return process.exit(1);
+}
+
+var file = args._[0],
+  startFragments = args._.slice(1),
+  timeOut = args.t || 60000, // default 60s
+  optimized = args.optimized,
+  node = process.argv[0],
+  clientPath = './clients/ldf-client/bin/ldf-client',
+  ioSettings = {
+    stdio: ['pipe', 'pipe', 'pipe']
+  },
+  parameters = ['-t', 'debug', '-l', 'INFO'];
+
+/* TODO: Remove hacks like this after client has been cleaned up */
+if (optimized)
+  parameters.push('-a', '2');
+
+var lr = new LineByLineReader(file);
+
+var id = 0;
+
+
+console.log("id,timeFirst(ms),timeHalf(ms),time(ms),resultCount,requestCount,timeOut,cpu(%),memory(MB),error");
+
+lr.on('error', function (err) {
+  // 'err' contains error object
+  console.error(err);
+});
+
+lr.on('line', function (query) {
+  // 'line' contains the current line without the trailing newline character.
+  lr.pause();
+
+  id++;
+  requestCount = 0;
+
+  // Measurements
+  var delays = [],
+    totalDelay = -1,
+    requestCount = 0,
+    isTimeOut = false,
+    cpu = 0,
+    memory = 0,
+    steps = 0,
+    error = '';
+
+  var start = process.hrtime();
+
+  var client = spawn(node, [clientPath].concat(startFragments, query, parameters), ioSettings);
+  var tracker = new trackPID(client.pid, 200, function (result) {
+    cpu += result.cpu;
+    memory += result.memory / 1000000;
+    steps++;
+  });
+
+  client.stdout.setEncoding('utf8');
+  client.stderr.setEncoding('utf8');
+  // Log HTTP requests
+  client.stderr.on('data', function (data) {
+    if (data.indexOf('INFO HttpClient') > -1)
+      requestCount++;
+    else
+      error += data;
+    process.stderr.write(data);
+  });
+
+  var to = setTimeout(function () {
+    isTimeOut = true;
+    client.kill();
+  }, timeOut);
+
+  client.stdout.on('data', function (result) {
+    var parsed = result.split(',');
+    if (parsed[0] === 'TOTAL')
+      totalDelay = parseFloat(parsed[1]);
+    else if (parsed[0] !== 'Result') // Skip header row
+      delays.push(parseFloat(parsed[1]));
+  });
+
+  client.on('exit', function (code, signal) {
+    tracker.stop();
+    clearTimeout(to);
+    client.removeAllListeners();
+    if (code === null)
+      console.error('ERROR: client exited abnormally: %s', signal);
+
+    console.log('%d,%d,%d,%d,%d,%d,%s,%d,%d,%s',
+      id,
+      delays.length > 0 ? delays[0] : -1,
+      delays.length > 0 ? delays[Math.ceil((delays.length - 1) / 2)] : -1,
+      isTimeOut ? timeOut : totalDelay,
+      delays.length,
+      requestCount,
+      isTimeOut,
+      cpu / steps,
+      memory / steps,
+      '"' + error.replace(/\r?\n|\r/g," ") + '"');
+
+    lr.resume();
+  });
+});
+
+lr.on('end', function () {
+  // All lines are read, file is closed now.
+  console.error('--- End of run ---');
+  process.exit(0);
+});

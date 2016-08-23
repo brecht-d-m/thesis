@@ -1,0 +1,13 @@
+#!/bin/sh
+FILES="$2/*"
+OUTPUT=$1
+
+rm $OUTPUT
+touch $OUTPUT
+
+for f in $FILES
+do
+	cat $f | tr -d '\n' >> $OUTPUT
+	echo "" >> $OUTPUT
+	#echo "$f" >> $OUTPUT
+done
